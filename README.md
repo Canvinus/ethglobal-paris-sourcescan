@@ -1,2 +1,29 @@
-# ethglobal-paris-sourcescan
-ETHGlobal Paris 2023 Project
+# SourceScan.BOS
+
+Introducing SourceScan.BOS, a Bos application designed for Sourcescan - the near smart contract verificator. With a fully modular design, each element functions independently, ensuring smooth performance and readability. It employs exclusively styled elements without tailwindcss. SourceScan.BOS supports both mainnet and testnet networks, also it is offering filtration and pagination directly integrated with the sourcescan smart contract. Additionally, the app features a persistent design theme stored in local storage for a seamless user experience. Explore the potential of smart contract verification with SourceScan.BOS today.
+
+## Mainnet:
+
+#### App: [SourceScan Mainnet App](https://near.org/near/widget/ComponentDetailsPage?src=sourcescan.near/widget/SourceScan)
+#### Components:
+- SourceScan.Contracts.Approved: [Link](https://near.org/near/widget/ComponentDetailsPage?src=sourcescan.near/widget/SourceScan.Contracts.Approved)
+- SourceScan.Layout.Navbar: [Link](https://near.org/near/widget/ComponentDetailsPage?src=sourcescan.near/widget/SourceScan.Layout.Navbar)
+- SourceScan.Contracts.Table: [Link](https://near.org/near/widget/ComponentDetailsPage?src=sourcescan.near/widget/SourceScan.Contracts.Table)
+- SourceScan.Inputs.Limits: [Link](https://near.org/near/widget/ComponentDetailsPage?src=sourcescan.near/widget/SourceScan.Inputs.Limits)
+- SourceScan.Inputs.Pagination: [Link](https://near.org/near/widget/ComponentDetailsPage?src=sourcescan.near/widget/SourceScan.Inputs.Pagination)
+- SourceScan.Inputs.SearchBar: [Link](https://near.org/near/widget/ComponentDetailsPage?src=sourcescan.near/widget/SourceScan.Inputs.SearchBar)
+- SourceScan.Inputs.NetworkSwitcher: [Link](https://near.org/near/widget/ComponentDetailsPage?src=sourcescan.near/widget/SourceScan.Inputs.NetworkSwitcher)
+- SourceScan.Inputs.ThemeChanger: [Link](https://near.org/near/widget/ComponentDetailsPage?src=sourcescan.near/widget/SourceScan.Inputs.ThemeChanger)
+
+## Testnet:
+
+#### App: [SourceScan Testnet App](https://test.near.org/discom.testnet/widget/ComponentDetailsPage?src=sourcescan.testnet/widget/SourceScan)
+#### Components:
+- SourceScan.Contracts.Approved: [Link](https://test.near.org/discom.testnet/widget/ComponentDetailsPage?src=sourcescan.testnet/widget/SourceScan.Contracts.Approved)
+- SourceScan.Layout.Navbar: [Link](https://test.near.org/discom.testnet/widget/ComponentDetailsPage?src=sourcescan.testnet/widget/SourceScan.Layout.Navbar)
+- SourceScan.Contracts.Table: [Link](https://test.near.org/discom.testnet/widget/ComponentDetailsPage?src=sourcescan.testnet/widget/SourceScan.Contracts.Table)
+- SourceScan.Inputs.Limits: [Link](https://test.near.org/discom.testnet/widget/ComponentDetailsPage?src=sourcescan.testnet/widget/SourceScan.Inputs.Limits)
+- SourceScan.Inputs.Pagination: [Link](https://test.near.org/discom.testnet/widget/ComponentDetailsPage?src=sourcescan.testnet/widget/SourceScan.Inputs.Pagination)
+- SourceScan.Inputs.SearchBar: [Link](https://test.near.org/discom.testnet/widget/ComponentDetailsPage?src=sourcescan.testnet/widget/SourceScan.Inputs.SearchBar)
+- SourceScan.Inputs.NetworkSwitcher: [Link](https://test.near.org/discom.testnet/widget/ComponentDetailsPage?src=sourcescan.testnet/widget/SourceScan.Inputs.NetworkSwitcher)
+- SourceScan.Inputs.ThemeChanger: [Link](https://test.near.org/discom.testnet/widget/ComponentDetailsPage?src=sourcescan.testnet/widget/SourceScan.Inputs.ThemeChanger)
