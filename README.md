@@ -1,6 +1,6 @@
 # SourceScan.BOS
 
-Introducing SourceScan.BOS, a Bos application designed for Sourcescan - the near smart contract verificator. With a fully modular design, each element functions independently, ensuring smooth performance and readability. It employs exclusively styled elements without tailwindcss. SourceScan.BOS supports both mainnet and testnet networks, also it is offering filtration and pagination directly integrated with the sourcescan smart contract. Additionally, the app features a persistent design theme stored in local storage for a seamless user experience. Explore the potential of smart contract verification with SourceScan.BOS today.
+Introducing SourceScan.BOS, a BOS application designed for Sourcescan - the near smart contract verificator. With a fully modular design, each element functions independently, ensuring reusability. It employs exclusively styled elements without tailwindcss wich improves readability. SourceScan.BOS supports both mainnet and testnet networks, also it is offering filtration and pagination directly integrated with the sourcescan smart contract. Additionally, the app features a persistent design theme stored in local storage for a seamless user experience. Explore the potential of smart contract verification with SourceScan.BOS today.
 
 ## Mainnet:
 
