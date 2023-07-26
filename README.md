@@ -1,4 +1,7 @@
 # SourceScan.BOS
+## "🥈 Best Frontend built with BOS" - NEAR
+
+https://storage.googleapis.com/ethglobal-api-production/organizations%2F5b69q%2Flogo%2F1666293405537_YPwdd6cd_400x400.jpeg
 
 Introducing SourceScan.BOS, a BOS application designed for Sourcescan - the near smart contract verificator. With a fully modular design, each element functions independently, ensuring reusability. It employs exclusively styled elements without tailwindcss wich improves readability. SourceScan.BOS supports both mainnet and testnet networks, also it is offering filtration and pagination directly integrated with the sourcescan smart contract. Additionally, the app features a persistent design theme stored in local storage for a seamless user experience. Explore the potential of smart contract verification with SourceScan.BOS today.
 
